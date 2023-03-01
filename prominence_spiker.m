@@ -3,7 +3,8 @@
 % first_line_match only works for files without extension
 % see also: https://packagecontrol.io/packages/ApplySyntax
 %
-% BEAT IT (ver.2)
+% Prominence Spiker
+% (or BEAT IT ver.2)
 %
 % //__FeAR__//
 %
