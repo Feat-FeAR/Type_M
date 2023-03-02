@@ -1,3 +1,5 @@
+% Orthographic projection
+
 function OrthProj(x,minimum,maximum,c)
 
 dotsize = 7;
