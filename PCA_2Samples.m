@@ -4,6 +4,9 @@
 %---------------------------%
 %---------------------------%
 
+%%% Add the path of biplotG to the 'MATLAB search path' list (see Orientation script!!)
+
+
 data = [MasterMatrix1;MasterMatrix2];
 dataS = zscore(data);
 

@@ -43,6 +43,7 @@ if ~strcmp(pwd, strcat(root, datapath))
 end
 
 % Add the path of CircStat Toolbox to the 'MATLAB search path' list
+%%%%%% Now CircStat has moved to E:\UniTo Drive\Coding\Type_M\res\CircStat ...fix it!
 circ_path = strcat(root,...
 	'\\UniTo Drive\\Coding\\Z - Third-party Packages\\MATLAB - CircStat\\CircStat');
 addpath(circ_path)

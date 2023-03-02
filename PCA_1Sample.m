@@ -4,6 +4,8 @@
 %----------------------------------%
 %----------------------------------%
 
+% Add the path of biplotG to the 'MATLAB search path' list (see Orientation script!!)
+
 dataS = zscore(data);
 [n, k] = size(dataS);
 
